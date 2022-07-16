@@ -1,2 +1,10 @@
-change 1
+ Volume in drive H is New Volume
+ Volume Serial Number is B476-35B8
 
+ Directory of H:\Desktop\Myproject
+
+16-07-2022  20:42    <DIR>          .
+16-07-2022  12:05    <DIR>          ..
+16-07-2022  20:42                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  93,291,966,464 bytes free
